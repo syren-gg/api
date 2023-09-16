@@ -1,0 +1,20 @@
+{
+  "name": "@syren-gg/root",
+  "private": "true",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Davies <tom@syren.gg>",
+  "license": "UNLICENSED",
+  "description": "",
+  "workspaces": {
+    "packages": [
+      "src/functions/*",
+      "src/lib/*"
+    ],
+    "nohoist": [
+      "@syren-gg/fn-**"
+    ]
+  }
+}

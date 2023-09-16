@@ -1,0 +1,15 @@
+{
+  "name": "@syren-gg/fn-mailjet-mailing-list-subscription-notifier-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Davies <tom@syren.gg>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-mailjet": "^6.0.4"
+  }
+}
