@@ -10,9 +10,9 @@
   "author": "Tom Davies <tom@syren.gg>",
   "license": "UNLICENSED",
   "peerDependencies": {
-    "zod": "^3.21.4"
+    "zod": "^3.22.2"
   },
   "devDependencies": {
-    "zod": "^3.21.4"
+    "zod": "^3.22.2"
   }
 }
