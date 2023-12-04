@@ -10,6 +10,6 @@
   "author": "Tom Davies <tom@syren.gg>",
   "license": "UNLICENSED",
   "dependencies": {
-    "node-mailjet": "^6.0.4"
+    "node-mailjet": "^6.0.5"
   }
 }
